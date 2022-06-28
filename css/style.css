@@ -661,7 +661,7 @@ body {
     -o-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
     background-color: white;
-    padding: 112px 24px 0 24px;
+    padding: 75px 24px 0 24px;
   }
 
   .header__menu.active {
